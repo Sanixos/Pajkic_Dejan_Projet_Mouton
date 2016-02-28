@@ -1,0 +1,38 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5700 Series (ID=0x68b8)
+    Vendor:   ATI
+    VRAM:     1014 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dejan\Desktop\Levieux Unity\Pajkic_Dejan_Projet_Mouton\Dejan_Pajkic_Projet_Mouton_Unity\Build\Build_Scene_Principale_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dejan\Desktop\Levieux Unity\Pajkic_Dejan_Projet_Mouton\Dejan_Pajkic_Projet_Mouton_Unity\Build\Build_Scene_Principale_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dejan\Desktop\Levieux Unity\Pajkic_Dejan_Projet_Mouton\Dejan_Pajkic_Projet_Mouton_Unity\Build\Build_Scene_Principale_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Dejan\Desktop\Levieux Unity\Pajkic_Dejan_Projet_Mouton\Dejan_Pajkic_Projet_Mouton_Unity\Build\Build_Scene_Principale_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Dejan\Desktop\Levieux Unity\Pajkic_Dejan_Projet_Mouton\Dejan_Pajkic_Projet_Mouton_Unity\Build\Build_Scene_Principale_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Dejan\Desktop\Levieux Unity\Pajkic_Dejan_Projet_Mouton\Dejan_Pajkic_Projet_Mouton_Unity\Build\Build_Scene_Principale_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Dejan\Desktop\Levieux Unity\Pajkic_Dejan_Projet_Mouton\Dejan_Pajkic_Projet_Mouton_Unity\Build\Build_Scene_Principale_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Dejan\Desktop\Levieux Unity\Pajkic_Dejan_Projet_Mouton\Dejan_Pajkic_Projet_Mouton_Unity\Build\Build_Scene_Principale_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.056 seconds
+Platform assembly: C:\Users\Dejan\Desktop\Levieux Unity\Pajkic_Dejan_Projet_Mouton\Dejan_Pajkic_Projet_Mouton_Unity\Build\Build_Scene_Principale_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Dejan\Desktop\Levieux Unity\Pajkic_Dejan_Projet_Mouton\Dejan_Pajkic_Projet_Mouton_Unity\Build\Build_Scene_Principale_Data\Managed\System.dll (this message is harmless)
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Main Camera_TPS') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'Main Camera_TPS') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'Main Camera_TPS') is missing!
+ 
+(Filename:  Line: 1655)
+
+UnloadTime: 0.935676 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1de4 -> priority: 1 
